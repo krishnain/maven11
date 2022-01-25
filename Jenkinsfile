@@ -11,7 +11,7 @@ pipeline
             {
                 script
                 {
-                    cicd.newGit("https://github.com/krishnain/maven.git")
+                    cicd.newGit("https://github.com/krishnain/maven11.git")
                 }
             }
         }
